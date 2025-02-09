@@ -1,4 +1,4 @@
-# PlugShare爬虫项目
+# Plxxxxxxre爬虫项目
 
 ## 项目概述
 
@@ -32,7 +32,7 @@
 
 1. 克隆此仓库：
 ```
-git clone https://github.com/your-username/plugshare-scraper.git
+git clone https://github.com/Xigai-Max/plugshare_crawler.git
 cd plugshare-scraper
 ```
 
